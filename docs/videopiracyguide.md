@@ -10,6 +10,7 @@
 
 ***
 
+* 🌟 **[Fmovies](http://www.mommytips.me/)** - Movies / TV / 4K / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (official)
 * 🌟 **[Cineby](https://www.cineby.app/)**, [2](https://www.bitcine.app/) - Movies / TV / Anime / 4K / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
 * 🌟 **[Freek](https://freek.to/)** - Movies / TV / Anime / Auto-Next / [Discord](https://freek.to/discord)
 * 🌟 **[movie-web Instances](https://erynith.github.io/movie-web-instances/)**, [2](https://github.com/erynith/movie-web-instances/blob/main/page.md) - Movies / TV / Anime / Auto-Next / [Docs](https://docs.undi.rest/) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#movie-web-extension)
